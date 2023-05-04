@@ -1,1 +1,11 @@
-* test can I use org?
+* Research Projects
+- [[https://github.com/sslab-gatech/autofz][autofz: Automated Fuzzer Composition at Runtime (SEC23)]]
+- [[https://github.com/fmlab-iis/coq-cryptoline][Coq Cryptoline]]
+  - Certified Verification for Algebraic Abstraction (CAV23)
+  - CoqCryptoLine: A Verified Model Checker with Certified Results (CAV23)
+- [[https://github.com/fmlab-iis/coq-qfbv][CoqQFBV: A Scalable Certified SMT Quantifier-Free Bit-Vector Solver (CAV21)]]
+- [[https://github.com/fmlab-iis/gcc2cryptoline][Signed Cryptographic Program Verification with Typed CryptoLine (CCS19)]]
+
+* Tools
+- [[https://github.com/fuyu0425/keepass-cli-rs][keepass-cli-rs: KeePass CLI with Emacs integration]]
+- [[https://github.com/fuyu0425/maskedemail-rs][maskedemail-rs: Fastmail MaskedEmail CLI with Emacs Integration]]
