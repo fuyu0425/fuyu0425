@@ -9,3 +9,9 @@
 * Tools
 - [[https://github.com/fuyu0425/keepass-cli-rs][keepass-cli-rs: KeePass CLI with Emacs integration]]
 - [[https://github.com/fuyu0425/maskedemail-rs][maskedemail-rs: Fastmail MaskedEmail CLI with Emacs Integration]]
+
+
+* Hacks
+- [[https://github.com/fuyu0425/firefox-tweaks][My FireFox Tweaks]]
+- [[https://github.com/fuyu0425/dotfiles][dotfiles powered by GNU Stow]]
+- [[https://github.com/fuyu0425/PKGBUILDs][PKGBUILD for AUR maintained by me]]
