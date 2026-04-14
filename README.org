@@ -1,4 +1,6 @@
 ** Research Projects
+- [[https://github.com/ossf/oss-crs][OSS-CRS: Liberating AIxCC Cyber Reasoning Systems for Real-World Open-Source Security (WOOT 26)]]
+- [[https://github.com/sslab-gatech/MSG][Agentic Specification Generator for Move Programs (ASE25)]]
 - [[https://github.com/sslab-gatech/autofz][autofz: Automated Fuzzer Composition at Runtime (SEC23)]]
 - [[https://github.com/fmlab-iis/coq-cryptoline][Coq Cryptoline]]
   - Certified Verification for Algebraic Abstraction (CAV23)
