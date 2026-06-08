@@ -12,6 +12,7 @@
 - [[https://github.com/fmlab-iis/gcc2cryptoline][Signed Cryptographic Program Verification with Typed CryptoLine (CCS19)]]
 
 ** Tools
+- [[https://github.com/fuyu0425/codex-as][codex-as: Run Codex under saved auth/provider profiles without touching config files]]
 - [[https://github.com/fuyu0425/keepass-cli-rs][keepass-cli-rs: KeePass CLI with Emacs integration]]
 - [[https://github.com/fuyu0425/maskedemail-rs][maskedemail-rs: Fastmail MaskedEmail CLI with Emacs Integration]]
 - [[https://github.com/fuyu0425/Fastmail-Sieve-Sync][Fastmail-Sieve-Sync: Fastmail Sieve Rules Sync]]
