@@ -1,5 +1,8 @@
 ** Research Projects
-- [[https://github.com/ossf/oss-crs][OSS-CRS: Liberating AIxCC Cyber Reasoning Systems for Real-World Open-Source Security (WOOT 26)]]
+- AIxCC related works
+  - [[https://github.com/sslab-gatech/CRSBench)][CRSBench: Revealing the Full Capability of Cyber Reasoning Systems via Realistic End-to-End Evaluation (under review)]]
+  - [[https://arxiv.org/abs/2602.07666][SoK: DARPA’s AI Cyber Challenge (AIxCC): Competition Design, Architectures, and Lessons Learned (SEC 26)]]
+  - [[https://github.com/ossf/oss-crs][OSS-CRS: Liberating AIxCC Cyber Reasoning Systems for Real-World Open-Source Security (WOOT 26)]]
 - [[https://github.com/sslab-gatech/MSG][Agentic Specification Generator for Move Programs (ASE25)]]
 - [[https://github.com/sslab-gatech/autofz][autofz: Automated Fuzzer Composition at Runtime (SEC23)]]
 - [[https://github.com/fmlab-iis/coq-cryptoline][Coq Cryptoline]]
